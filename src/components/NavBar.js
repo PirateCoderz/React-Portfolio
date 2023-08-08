@@ -14,6 +14,10 @@ export const NavBar = () => {
   const [activeLink, setActiveLink] = useState('home');
   const [scrolled, setScrolled] = useState(false);
 
+  const facebook = "https://www.facebook.com/profile.php?id=100072033686874&mibextid=ZbWKwL";
+  const linkedin = "https://www.linkedin.com/in/piratecoderz";
+  const instagram = "https://instagram.com/numliancoder";
+
   useEffect(() => {
     const onScroll = () => {
       if (window.scrollY > 50) {
@@ -50,9 +54,9 @@ export const NavBar = () => {
             </Nav>
             <span className="navbar-text">
               <div className="social-icon">
-                <a href="https://www.linkedin.com/in/piratecoderz"><img src={navIcon1} alt="" /></a>
-                <a href="https://www.facebook.com/profile.php?id=100072033686874&mibextid=ZbWKwL"><img src={navIcon2} alt="" /></a>
-                <a href="https://instagram.com/numliancoder"><img src={navIcon3} alt="" /></a>
+                <a href={linkedin}><img src={navIcon1} alt="" /></a>
+                <a href={facebook}><img src={navIcon2} alt="" /></a>
+                <a href={instagram}><img src={navIcon3} alt="" /></a>
               </div>
               <HashLink to='#connect'>
                 <button className="vvd"><span>Let’s Connect</span></button>
