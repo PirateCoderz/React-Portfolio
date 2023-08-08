@@ -4,6 +4,7 @@ import projImg1 from "../assets/img/proj-img1.jpeg";
 import projImg2 from "../assets/img/proj-img2.jpeg";
 import projImg3 from "../assets/img/proj-img3.jpeg";
 import projImg4 from "../assets/img/proj-img4.jpeg";
+import projImg5 from "../assets/img/proj-img5.jpeg";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -34,7 +35,7 @@ export const Projects = () => {
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projImg3,
+      imgUrl: projImg5,
     },
     {
       title: "PHP Website",
