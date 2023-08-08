@@ -339,7 +339,12 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   width: 40%;
   z-index: -4;
 }
-
+.react-multiple-carousel__arrow--right {
+  right: calc(0% + 1px) !important;
+}
+.react-multiple-carousel__arrow--left {
+  left: calc(1% + 1px) !important;
+}
 /************ Projects Css ************/
 .project {
   padding: 80px 0;
@@ -554,6 +559,15 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   margin-bottom: 80px;
   margin-top: -122px;
 }
+
+@media screen and (max-width: 770px) {
+  .newsletter-bx { padding: 70px 40px; }
+}
+
+@media screen and (max-width: 560px) {
+  .newsletter-bx { padding: 40px 20px; }
+}
+
 .newsletter-bx h3 {
   font-weight: 700;
   letter-spacing: 0.5px;
@@ -606,6 +620,15 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   letter-spacing: 0.5px;
   border-radius: 18px;
 }
+@media screen and (max-width: 400px) {
+  .new-email-bx button { padding: 10px 20px; }  
+}
+@media screen and (max-width: 767px) {
+  .new-email-bx button { padding: 15px 30px; }  
+  .banner {padding-top: 70px;}
+  .banner h1 { font-size: 50px;}
+}
+
 .footer img {
   width: 26%;
 }
