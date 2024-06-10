@@ -90,6 +90,11 @@ nav.navbar {
   z-index: 9999;
   transition:  0.32s ease-in-out;
 }
+
+.logo {
+  color: #B8B8B8;
+  font-size: 1.5rem;
+}
 nav.navbar.scrolled {
   padding: 0px 0;
   background-color: #121212;
@@ -641,8 +646,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   .banner h1 { font-size: 50px;}
 }
 
-.footer img {
-  width: 26%;
+.footer .footerLogo {
+  /* width: 26%; */
+  font-size: 2rem;
 }
 .footer p {
   font-weight: 400;
