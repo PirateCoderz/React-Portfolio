@@ -5,6 +5,7 @@ import projImg2 from "../assets/img/proj-img2.jpeg";
 import projImg3 from "../assets/img/proj-img3.jpeg";
 import projImg4 from "../assets/img/proj-img4.jpeg";
 import projImg5 from "../assets/img/proj-img5.jpeg";
+import projImg6 from "../assets/img/proj-img6.jpeg";
 import colorSharp2 from "../assets/img/color-sharp2.png";
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -13,9 +14,9 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "React Web App",
-      description: "Design & Development",
-      imgUrl: projImg1,
+      title: "Pirate Ecommerce",
+      description: "Next JS Ecommerce Site",
+      imgUrl: projImg6,
     },
     {
       title: "PHP Website",
@@ -23,8 +24,8 @@ export const Projects = () => {
       imgUrl: projImg2,
     },
     {
-      title: "Next Web App",
-      description: "Design & Development",
+      title: "UAE DESERT ADVENTURES",
+      description: "Next JS | Design & Development",
       imgUrl: projImg3,
     },
     {
@@ -33,14 +34,14 @@ export const Projects = () => {
       imgUrl: projImg4,
     },
     {
-      title: "Portfolio Website",
-      description: "Design & Development",
+      title: "Pirate Coderz Portfolio",
+      description: "React JS | Design & Development",
       imgUrl: projImg5,
     },
     {
-      title: "PHP Website",
+      title: "React Website",
       description: "Design & Development",
-      imgUrl: projImg2,
+      imgUrl: projImg1,
     },
   ];
 
