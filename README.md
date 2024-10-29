@@ -1,7 +1,7 @@
 # My Portfolio Website
 
 
-![Portfolio Preview](https://github.com/PirateCoderz/React-Portfolio/blob/main/src/assets/img/readme-img.jpeg) <!-- Replace with the actual path to your portfolio image -->
+![Portfolio Preview](https://github.com/PirateCoderz/React-Portfolio/blob/main/src/assets/img/readme-img.jpeg) 
 
 This is a responsive portfolio website built with **React.js**, showcasing my work, skills, and experience. It features a professional blue and black theme, enhanced with smooth animations and built-in functionality for contact and project showcases. The website is live at [pirate-coderz.vercel.app](https://pirate-coderz.vercel.app).
 
@@ -86,7 +86,7 @@ This portfolio site highlights my projects, skills, and contact information usin
 
 ## Image Preview
 
-![Portfolio Preview](path/to/your-image.jpg) <!-- Replace with the actual path to your portfolio image -->
+![Portfolio Preview](https://github.com/PirateCoderz/React-Portfolio/blob/main/src/assets/img/readme-img.jpeg) <!-- Replace with the actual path to your portfolio image -->
 
 ---
 
