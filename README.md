@@ -72,7 +72,7 @@ This portfolio site highlights my projects, skills, and contact information usin
    ```
 
 4. **Access the App**:
-   Visit [http://localhost:3000](http://localhost:3000) to view the site locally.
+   Visit [https://piratecoderz.com](https://pirate-coderz.vercel.app) to view the site locally.
 
 ---
 
@@ -108,7 +108,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For inquiries, collaborations, or further information, please contact me at [email@example.com](mailto:email@example.com).
+For inquiries, collaborations, or further information, please contact me at [email@piratecoderz.com](mailto:galpha964@gmail.com?subject=Inquiry%20Regarding%20Portfolio%20Website&body=Hello%2C%0D%0A%0D%0AI%20am%20reaching%20out%20regarding%20your%20portfolio%20website%2C%20and%20I%20would%20like%20to%20inquire%20about%20your%20work%20or%20explore%20collaboration%20opportunities.%20Please%20let%20me%20know%20how%20I%20can%20connect%20with%20you%20further!%0D%0A%0D%0ABest%20regards%2C%0D%0A%5BYour%20Name%5D
+).
 
 --- 
 
