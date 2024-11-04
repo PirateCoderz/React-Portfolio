@@ -1,4 +1,4 @@
-# My Portfolio Website
+# Pirate Coderz Portfolio Website
 
 
 ![Portfolio Preview](https://github.com/PirateCoderz/React-Portfolio/blob/main/src/assets/img/readme-img.jpeg) 
@@ -57,8 +57,8 @@ This portfolio site highlights my projects, skills, and contact information usin
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/my-portfolio.git
-   cd my-portfolio
+   git clone https://github.com/piratecoderz/react-portfolio.git
+   cd react-portfolio
    ```
 
 2. **Install Dependencies**:
